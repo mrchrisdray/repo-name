@@ -1,2 +1,2 @@
-# test-repo-seetings
+# test-repo-settings
 testing settings
